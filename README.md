@@ -20,6 +20,9 @@ To create this application, a coding program such as visual studio code, access 
 ## Usage
 This video demonstration will showcase the terminal application in use and the code to create this will be marked in separate files within my github repository for this application
 
+![Screen Shot 2024-07-16 at 9 22 31 PM](https://github.com/user-attachments/assets/4c685b74-fae3-4ea3-82a6-d23a56776691)
+
+
 ## License
 This application is covered by the ***MIT***.
 
