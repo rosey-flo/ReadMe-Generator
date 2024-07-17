@@ -1,9 +1,9 @@
-# terminal Application
+    # Terminal Application
 
-    ![License](https://img.shields.io/badge/License-Boost-lightblue.svg)
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
     ## Description
-    uhuh
+    This application is a demonstraton how to use the terminal along with the inquirer package and knowledge and use of unctions to create a dynamic terminal module that acccepts user input to generate a README.md file
 
     ## Table of Contents
     - [Description](#description)
@@ -15,20 +15,20 @@
     - [Questions](#questions)
 
     ##Installation
-    wswsw
+    To create this application, a coding program such as visual studio code, access to the internet to dowload the necessary packages, and a github account to upload would be required
 
     ## Usage
-    swsws
+    This video demonstration will showcase the terminal application in use and the code to create this will be marked in separate files within my github repository for this application
 
     ## License
-    This application is covered by the ***Boost***.
+    This application is covered by the ***MIT license***.
     
     ## Contributing
-    edede
+    This application was possible with the help of the professional Github README.md document to use for reference ans the inquirer 8.2 package
 
     ## Tests
-    dwdw
+    in recreating this terminal application, console.log each step when creating your frunction starting with the initiation
 
     ## Questions
-    Should you have any specific questions regarding my application or would like to compare with my other deployed applcations, contact and general information can be found on my Github homepage found here: GitHub: [@gtggt](https://github.com/gtggt)
+    Should you have any specific questions regarding my application or would like to compare with my other deployed applcations, contact and general information can be found on my Github homepage found here: GitHub: [@rosey-flo](https://github.com/rosey-flo)
     

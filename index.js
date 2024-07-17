@@ -27,7 +27,7 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        choices: ['MIT license', 'Apache 2.0', 'GNU General Public v3.0', 'Boost', 'BSD 2-Clause', 'Creative Commons', 'Eclipse Public', 'IBM', 'Mozilla Public', 'Perl']
+        choices: ['MIT', 'Apache 2.0', 'GNU General Public v3.0', 'Boost', 'BSD 2-Clause', 'Creative Commons', 'Eclipse Public', 'IBM', 'Mozilla Public', 'Perl']
     },
     {
         type: 'input',
