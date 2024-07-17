@@ -40,42 +40,42 @@ function renderLicenseSection(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown({title, description, installation, usage, license, contributing, tests, username}) {
   const markdown = 
-    `# ${title}
+`# ${title}
 
-    ${renderLicenseBadge(license)}
+${renderLicenseBadge(license)}
 
-    ## Description
-    ${description}
+## Description
+${description}
 
-    ## Table of Contents
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - ${renderLicenseLink(license)}
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- ${renderLicenseLink(license)}
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-    ##Installation
-    ${installation}
+##Installation
+${installation}
 
-    ## Usage
-    ${usage}
+## Usage
+${usage}
 
-    ## License
-    This application is covered by the ***${license}***.
-    
-    ## Contributing
-    ${contributing}
+## License
+This application is covered by the ***${license}***.
 
-    ## Tests
-    ${tests}
+## Contributing
+${contributing}
 
-    ## Questions
-    Should you have any specific questions regarding my application or would like to compare with my other deployed applcations, contact and general information can be found on my Github homepage found here: GitHub: [@${username}](https://github.com/${username})
-    `;
-  
-  return markdown;
+## Tests
+${tests}
+
+## Questions
+Should you have any specific questions regarding my application or would like to compare with my other deployed applcations, contact and general information can be found on my Github homepage found here: GitHub: [@${username}](https://github.com/${username})
+`;
+
+return markdown;
 };
 
 module.exports = generateMarkdown;
